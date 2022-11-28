@@ -7,7 +7,7 @@ This contains some projects that make up part of my portfolio. Enjoy!
 
 This is a personal project I've been working on. The aim was to build a simple data pipeline, extracting data from diffetent sources (API and CSV file), loading to a database (PostgreSQL), using Apache Airflow as a data orchestration workflow tool.
 
-## [Data Analysis](https://github.com/JKng/NY-Taxi)
+## [Data Analysis](https://github.com/JKng/Data-Analysis-Taxi)
 *Python | SQL | Google Colab | PowerBI*
 
 This is an online challenge I recently completed. This was a great opportunity for me to develop my skills in data analysis.
