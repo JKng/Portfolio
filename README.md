@@ -10,5 +10,5 @@ This is a personal project I've been working on. The aim was to build a simple d
 ## [Data Analysis](https://github.com/JKng/NY-Taxi)
 *Python | SQL | Google Colab | PowerBI*
 
-This is an online challenge I recently completed. This was a great opportunity for me to develop my skills, and learn new technologies and tools. 
+This is an online challenge I recently completed. This was a great opportunity for me to develop my skills in data analysis.
 
